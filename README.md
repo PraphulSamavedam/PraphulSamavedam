@@ -8,8 +8,8 @@
 <br>
 
 ### Reach me
-- [:mailbox_with_mail: ](praphulsamavedam@gmail.com)
-- ![LinkedIn Profile](/src/img/image.jpg "title")
+- [:mailbox_with_mail: Mail me](praphulsamavedam@gmail.com)
+- <a href="https://www.linkedin.com/in/samavedam-manikhanta-praphul/"> <img src= "/src/img/LI-In-Bug.png" alt="LinkedIn logo" width=22 height=22/> View my LinkedIn Profile </a>
 
 <!--
 **PraphulSamavedam/PraphulSamavedam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
