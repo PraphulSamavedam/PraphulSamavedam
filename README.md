@@ -9,8 +9,8 @@
 
 ### Reach me
 [:mailbox_with_mail: Mail me](praphulsamavedam@gmail.com) <br />
-<a href="https://www.linkedin.com/in/samavedam-manikhanta-praphul/"> <img src= "/src/img/LI-In-Bug.png" alt="LinkedIn logo" width=22 height=22/> View my LinkedIn Profile </a> </br>
-<a href="https://www.linkedin.com/in/samavedam-manikhanta-praphul/"> <img src= "/src/img/f_logo_RGB-Blue_58.png" alt="LinkedIn logo" width=22 height=22/> View my LinkedIn Profile </a> </br>
+<a href="https://www.linkedin.com/in/samavedam-manikhanta-praphul/"> <img src= "/src/img/LI-In-Bug.png" alt="LinkedIn logo" width=22 height=22/> View my LinkedIn profile </a> </br>
+<a href="https://www.facebook.com/praphulchampion"> <img src= "/src/img/f_logo_RGB-Blue_58.png" alt="Facebook logo" width=22 height=22/> View my FB profile </a> </br>
 
 ### Stats
 <details>
