@@ -15,13 +15,13 @@
 ### Stats
 <details>
   <summary>Github</summary>
-  <img align="center" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
 </details>
 
 ### Bibilophile mode
 1. :blue_book: [How to Change Others](https://bookstore.yssofindia.org/product/how-to-change-others)
 2. :blue_book: [Overcoming Character Liabilities](https://bookstore.yssofindia.org/product/overcoming-character-liabilities)
-3. :blue_book:
+3. :blue_book: 
 
 
 ##### Resources
