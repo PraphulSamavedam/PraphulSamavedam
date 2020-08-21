@@ -4,7 +4,7 @@
 💬 Ask me about data science, machine learning and artificial intelligence. I love those interactions.<br>
 
 ### 😄 Inspirations:
-* Dr. APJ Abdul Kalam Azad - _"I learnt, every youth wants to be unique, that is, YOU! But the world all around you, is doing its best, day and night, to make you just "everybody else".Being like everybody else is convenient at the first glance, but not satisfying in the long vision.The challenge, therefore, my young friends, is that you have to fight the hardest battle, which any human being can ever imagine to fight; and never stop fighting until you arrive at your destined place, that is, a __UNIQUE YOU!__"_
+* ```Dr. APJ Abdul Kalam Azad``` - _"I learnt, every youth wants to be unique, that is, YOU! But the world all around you, is doing its best, day and night, to make you just "everybody else".Being like everybody else is convenient at the first glance, but not satisfying in the long vision.The challenge, therefore, my young friends, is that you have to fight the hardest battle, which any human being can ever imagine to fight; and never stop fighting until you arrive at your destined place, that is, a __UNIQUE YOU!__"_
 <br>
 
 ### Reach me
