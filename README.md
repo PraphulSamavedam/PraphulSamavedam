@@ -1,5 +1,5 @@
 # Samavedam Manikhanta Praphul
-### :heart: Open Source Development
+### :heart: Machine learning
 🌱 I’m a curious avid learner and loves to travel the untravelled path <br>
 💬 Ask me about data science, machine learning and artificial intelligence. I love those interactions.<br>
 
