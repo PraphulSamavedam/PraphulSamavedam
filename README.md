@@ -14,12 +14,41 @@
 <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/132735"> <img src="/src/img/alteryxCommunityLogo.png" alt="Alteryx logo" height=30 /> View my Alteryx Profile </a></br>
 
 ### Certificates
-<object data="/src/certs/Coursera_8JLMS3ZHNDFM.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/src/certs/Coursera_8JLMS3ZHNDFM.pdf">
-        <p>There appears to be some issue while embedding certificate
-		Please download the PDF to view it: <a href="https://www.coursera.org/account/accomplishments/certificate/8JLMS3ZHNDFM">Download PDF</a>.</p>
-    </embed>
+* Deep learning Specialization
+<details>
+<iframe src="/src/certs/Coursera_EX2VDP2VRP7E.pdf" style="width:600px; height:500px;" frameborder="0">
+</iframe>
+<p> <a href="https://www.coursera.org/account/accomplishments/certificate/EX2VDP2VRP7E">View PDF</a>.</p>
+</details>
+
+* Data visualization using Tableau
+<details>
+<iframe src="/src/certs/Coursera_8JLMS3ZHNDFM.pdf" style="width:600px; height:500px;" frameborder="0">
+</iframe>
+<p> <a href="https://www.coursera.org/account/accomplishments/certificate/8JLMS3ZHNDFM">View PDF</a>.</p>
+</details>
+
+* Alteryx core certified
+<details>
+<iframe src="/src/certs/Coursera_PL6V962K5L7H.pdf" style="width:600px; height:500px;" frameborder="0">
+</iframe>
+<p> <a href="https://www.coursera.org/account/accomplishments/certificate/PL6V962K5L7H">View PDF</a>.</p>
+</details>
+
+* Web Data using python
+<details>
+<iframe src="/src/certs/Coursera_PL6V962K5L7H.pdf" style="width:600px; height:500px;" frameborder="0">
+</iframe>
+<p> <a href="https://www.coursera.org/account/accomplishments/certificate/PL6V962K5L7H">View PDF</a>.</p>
+</details>
+
+* Python 3
+<object data="https://www.sololearn.com/Certificate/1073-9925933/pdf" type="application/pdf" width="100%"> 
+<embed src="">
+![Tableau course certificate](/src/certs/Coursera_8JLMS3ZHNDFM.pdf "Data Visualization using Tableau")
+</embed>
 </object>
+
 
 ### Stats
 <details>
@@ -27,7 +56,7 @@
   <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
 </details>
 
-### Bibilophile mode
+### Bibliophile mode
 1. :blue_book: [How to Change Others](https://bookstore.yssofindia.org/product/how-to-change-others)
 2. :blue_book: [Overcoming Character Liabilities](https://bookstore.yssofindia.org/product/overcoming-character-liabilities)
 3. :blue_book: 
