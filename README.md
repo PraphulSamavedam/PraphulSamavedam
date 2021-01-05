@@ -15,39 +15,39 @@
 
 ### Certificates
 * Deep learning Specialization
-<details>
 <iframe src="/src/certs/Coursera_EX2VDP2VRP7E.pdf" style="width:600px; height:500px;" frameborder="0">
 </iframe>
-<p> <a href="https://www.coursera.org/account/accomplishments/certificate/EX2VDP2VRP7E">View PDF</a>.</p>
-</details>
+
+<p>
+ <a href="https://www.coursera.org/account/accomplishments/certificate/EX2VDP2VRP7E">
+<img src="/src/certs/Coursera_EX2VDP2VRP7E.pdf" style="width:600px; height:500px;" frameborder="0">
+View PDF</a>
+</p>
 
 * Data visualization using Tableau
-<details>
 <iframe src="/src/certs/Coursera_8JLMS3ZHNDFM.pdf" style="width:600px; height:500px;" frameborder="0">
 </iframe>
 <p> <a href="https://www.coursera.org/account/accomplishments/certificate/8JLMS3ZHNDFM">View PDF</a>.</p>
-</details>
 
 * Alteryx core certified
-<details>
 <iframe src="/src/certs/Coursera_PL6V962K5L7H.pdf" style="width:600px; height:500px;" frameborder="0">
 </iframe>
 <p> <a href="https://www.coursera.org/account/accomplishments/certificate/PL6V962K5L7H">View PDF</a>.</p>
-</details>
 
 * Web Data using python
-<details>
 <iframe src="/src/certs/Coursera_PL6V962K5L7H.pdf" style="width:600px; height:500px;" frameborder="0">
 </iframe>
 <p> <a href="https://www.coursera.org/account/accomplishments/certificate/PL6V962K5L7H">View PDF</a>.</p>
-</details>
 
 * Python 3
 <object data="https://www.sololearn.com/Certificate/1073-9925933/pdf" type="application/pdf" width="100%"> 
-<embed src="">
-![Tableau course certificate](/src/certs/Coursera_8JLMS3ZHNDFM.pdf "Data Visualization using Tableau")
+<embed src="https://www.sololearn.com/Certificate/1073-9925933/pdf">
 </embed>
 </object>
+
+<a href="">
+<img src="/src/certs/Coursera_8JLMS3ZHNDFM.pdf"></img>
+</a>
 
 
 ### Stats
