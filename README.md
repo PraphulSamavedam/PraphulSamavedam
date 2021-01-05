@@ -24,7 +24,7 @@ View PDF</a>
 * Data visualization using Tableau
 <p>
  <a href="https://www.coursera.org/account/accomplishments/certificate/8JLMS3ZHNDFM">
-<img src="/src/certs/Coursera_8JLMS3ZHNDFM.pdf" style="width:600px; height:500px;" frameborder="0">
+<img src="https://github.com/PraphulSamavedam/PraphulSamavedam/blob/master/src/certs/Coursera_8JLMS3ZHNDFM.pdf" style="width:600px; height:500px;" frameborder="0">
 View PDF</a>
 </p>
 
