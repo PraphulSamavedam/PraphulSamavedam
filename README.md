@@ -11,7 +11,7 @@
 [:mailbox_with_mail: Mail me](praphulsamavedam@gmail.com) <br />
 <a href="https://www.linkedin.com/in/samavedam-manikhanta-praphul/"> <img src= "/src/img/LI-In-Bug.png" alt="LinkedIn logo" width=22 height=22/> View my LinkedIn profile </a> </br>
 <a href="https://www.facebook.com/praphulchampion"> <img src= "/src/img/f_logo_RGB-Blue_58.png" alt="Facebook logo" width=22 height=22/> View my FB profile </a> </br>
-<a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/132735"> <img src="/src/img/alteryxCommunityLogo.png" alt="Alteryx logo" height=22 /> View my Alteryx Profile </a></br>
+<a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/132735"> <img src="/src/img/alteryxCommunityLogo.png" alt="Alteryx logo" height=30 /> View my Alteryx Profile </a></br>
 
 ### Stats
 <details>
