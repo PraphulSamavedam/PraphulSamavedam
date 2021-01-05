@@ -13,6 +13,14 @@
 <a href="https://www.facebook.com/praphulchampion"> <img src= "/src/img/f_logo_RGB-Blue_58.png" alt="Facebook logo" width=22 height=22/> View my FB profile </a> </br>
 <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/132735"> <img src="/src/img/alteryxCommunityLogo.png" alt="Alteryx logo" height=32 /> View my Alteryx Profile </a></br>
 
+### Certificates
+<object data="/src/certs/Coursera_8JLMS3ZHNDFM.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/src/certs/Coursera_8JLMS3ZHNDFM.pdf">
+        <p>There appears to be some issue while embedding certificate
+		Please download the PDF to view it: <a href="https://www.coursera.org/account/accomplishments/certificate/8JLMS3ZHNDFM">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ### Stats
 <details>
   <summary>Github</summary>
