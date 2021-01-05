@@ -16,14 +16,14 @@
 ### Certificates
 * Deep learning Specialization
 <p>
- <a href="https://www.coursera.org/api/certificate.v1/pdf/EX2VDP2VRP7E">
+ <a href="https://www.coursera.org/account/accomplishments/certificate/EX2VDP2VRP7E">
 <img src="/src/certs/Coursera_EX2VDP2VRP7E.pdf" style="width:600px; height:500px;" frameborder="0">
 View PDF</a>
 </p>
 
 * Data visualization using Tableau
 <p>
- <a href="https://www.coursera.org/api/certificate.v1/pdf/8JLMS3ZHNDFM">
+ <a href="https://www.coursera.org/account/accomplishments/certificate/8JLMS3ZHNDFM">
 <img src="/src/certs/Coursera_8JLMS3ZHNDFM.pdf" style="width:600px; height:500px;" frameborder="0">
 View PDF</a>
 </p>
@@ -38,16 +38,17 @@ View PDF</a>
 
 * Web Data using python
 <p>
- <a href="https://www.coursera.org/api/certificate.v1/pdf/PL6V962K5L7H">
+ <a href="https://www.coursera.org/account/accomplishments/certificate/PL6V962K5L7H">
 <img src="/src/certs/Coursera_PL6V962K5L7H.pdf" style="width:600px; height:500px;" frameborder="0">
 View PDF</a>
 </p>
 
 * Python 3
 <object data="https://www.sololearn.com/Certificate/1073-9925933/pdf" type="application/pdf" width="100%"> 
-<embed src="https://www.sololearn.com/Certificate/1073-9925933/pdf">
+<embed src="/src/certs/Sololearn_Python3_1073-9925933.pdf">
 </embed>
 </object>
+<p><a href="https://www.sololearn.com/Certificate/1073-9925933/pdf"> View PDF</a></p>
 
 ### Stats
 <details>
@@ -58,7 +59,8 @@ View PDF</a>
 ### Bibliophile mode
 1. :blue_book: [How to Change Others](https://bookstore.yssofindia.org/product/how-to-change-others)
 2. :blue_book: [Overcoming Character Liabilities](https://bookstore.yssofindia.org/product/overcoming-character-liabilities)
-3. :blue_book: 
+3. :blue_book: [One minute manager](https://www.amazon.in/One-Minute-Manager-Kenneth-Blanchard/dp/8172234996/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+4. :green_book: [Don't Cross My Heart](https://www.amazon.in/Cross-My-Heart-Alex-21/dp/0099574063/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
 
 ##### Resources
