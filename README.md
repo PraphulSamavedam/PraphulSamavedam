@@ -15,40 +15,39 @@
 
 ### Certificates
 * Deep learning Specialization
-<iframe src="https://www.coursera.org/account/accomplishments/certificate/EX2VDP2VRP7E.pdf" style="width:600px; height:500px;" frameborder="0">
-</iframe>
-
 <p>
- <a href="https://www.coursera.org/account/accomplishments/certificate/EX2VDP2VRP7E">
+ <a href="https://www.coursera.org/api/certificate.v1/pdf/EX2VDP2VRP7E">
 <img src="/src/certs/Coursera_EX2VDP2VRP7E.pdf" style="width:600px; height:500px;" frameborder="0">
 View PDF</a>
 </p>
 
 * Data visualization using Tableau
-<iframe src="/src/certs/Coursera_8JLMS3ZHNDFM.pdf" style="width:600px; height:500px;" frameborder="0">
-</iframe>
-<p> <a href="https://www.coursera.org/account/accomplishments/certificate/8JLMS3ZHNDFM">View PDF</a>.</p>
+<p>
+ <a href="https://www.coursera.org/api/certificate.v1/pdf/8JLMS3ZHNDFM">
+<img src="/src/certs/Coursera_8JLMS3ZHNDFM.pdf" style="width:600px; height:500px;" frameborder="0">
+View PDF</a>
+</p>
+
 
 * Alteryx core certified
-<iframe src="/src/certs/Coursera_PL6V962K5L7H.pdf" style="width:600px; height:500px;" frameborder="0">
-</iframe>
-<p> <a href="https://www.coursera.org/account/accomplishments/certificate/PL6V962K5L7H">View PDF</a>.</p>
+<object data="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf" type="application/pdf" width="700px" height="700px">   
+    <embed src="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">
+    <a href="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">View PDF</a>
+    </embed>
+</object>
 
 * Web Data using python
-<iframe src="/src/certs/Coursera_PL6V962K5L7H.pdf" style="width:600px; height:500px;" frameborder="0">
-</iframe>
-<p> <a href="https://www.coursera.org/account/accomplishments/certificate/PL6V962K5L7H">View PDF</a>.</p>
+<p>
+ <a href="https://www.coursera.org/api/certificate.v1/pdf/PL6V962K5L7H">
+<img src="/src/certs/Coursera_PL6V962K5L7H.pdf" style="width:600px; height:500px;" frameborder="0">
+View PDF</a>
+</p>
 
 * Python 3
 <object data="https://www.sololearn.com/Certificate/1073-9925933/pdf" type="application/pdf" width="100%"> 
 <embed src="https://www.sololearn.com/Certificate/1073-9925933/pdf">
 </embed>
 </object>
-
-<a href="">
-<img src="/src/certs/Coursera_8JLMS3ZHNDFM.pdf"></img>
-</a>
-
 
 ### Stats
 <details>
