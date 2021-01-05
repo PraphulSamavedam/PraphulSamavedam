@@ -13,16 +13,54 @@
 <a href="https://www.facebook.com/praphulchampion"> <img src= "/src/img/f_logo_RGB-Blue_58.png" alt="Facebook logo" width=22 height=22/> View my FB profile </a> </br>
 <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/132735"> <img src="/src/img/alteryxCommunityLogo.png" alt="Alteryx logo" height=30 /> View my Alteryx Profile </a></br>
 
+### Certificates
+* Deep learning Specialization
+<p>
+ <a href="https://www.coursera.org/account/accomplishments/certificate/EX2VDP2VRP7E">
+<img src="/src/certs/Coursera_EX2VDP2VRP7E.pdf" style="width:600px; height:500px;" frameborder="0">
+View PDF</a>
+</p>
+
+* Data visualization using Tableau
+<p>
+ <a href="https://www.coursera.org/account/accomplishments/certificate/8JLMS3ZHNDFM">
+<img src="/src/certs/Coursera_8JLMS3ZHNDFM.pdf" style="width:600px; height:500px;" frameborder="0">
+View PDF</a>
+</p>
+
+
+* Alteryx core certified
+<object data="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf" type="application/pdf" width="700px" height="700px">   
+    <embed src="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">
+    <a href="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">View PDF</a>
+    </embed>
+</object>
+
+* Web Data using python
+<p>
+ <a href="https://www.coursera.org/account/accomplishments/certificate/PL6V962K5L7H">
+<img src="/src/certs/Coursera_PL6V962K5L7H.pdf" style="width:600px; height:500px;" frameborder="0">
+View PDF</a>
+</p>
+
+* Python 3
+<object data="https://www.sololearn.com/Certificate/1073-9925933/pdf" type="application/pdf" width="100%"> 
+<embed src="/src/certs/Sololearn_Python3_1073-9925933.pdf">
+</embed>
+</object>
+<p><a href="https://www.sololearn.com/Certificate/1073-9925933/pdf"> View PDF</a></p>
+
 ### Stats
 <details>
   <summary>Github</summary>
   <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
 </details>
 
-### Bibilophile mode
+### Bibliophile mode
 1. :blue_book: [How to Change Others](https://bookstore.yssofindia.org/product/how-to-change-others)
 2. :blue_book: [Overcoming Character Liabilities](https://bookstore.yssofindia.org/product/overcoming-character-liabilities)
-3. :blue_book: 
+3. :blue_book: [One minute manager](https://www.amazon.in/One-Minute-Manager-Kenneth-Blanchard/dp/8172234996/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+4. :green_book: [Don't Cross My Heart](https://www.amazon.in/Cross-My-Heart-Alex-21/dp/0099574063/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
 
 ##### Resources
