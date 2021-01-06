@@ -14,50 +14,49 @@
 <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/132735"> <img src="/src/img/alteryxCommunityLogo.png" alt="Alteryx logo" height=30 /> View my Alteryx Profile </a></br>
 
 ### Certificates
-* Deep learning Specialization
-<p>
+<table width="100%">
+<tr>
+<td width="50%" align="left" height="50px">
+Deep learning Specialization
  <a href="https://www.coursera.org/account/accomplishments/certificate/EX2VDP2VRP7E">
-<img src="/src/certs/Coursera_EX2VDP2VRP7E.pdf" style="width:600px; height:500px;" frameborder="0">
+<img src="src/certs/Coursera_EX2VDP2VRP7E.jpg" style="width:100%; height:100%;" frameborder="0" align="left" alt="Deep learning specialization low resolution image">
 View PDF</a>
-</p>
-
-* Data visualization using Tableau
+</td>
+<td width="50%" align="right" height="50px">
+Data visualization using Tableau
 <p>
  <a href="https://www.coursera.org/account/accomplishments/certificate/8JLMS3ZHNDFM">
-<img src="https://github.com/PraphulSamavedam/PraphulSamavedam/blob/master/src/certs/Coursera_8JLMS3ZHNDFM.pdf" style="width:600px; height:500px;" frameborder="0">
+ <img src="/src/certs/Coursera_8JLMS3ZHNDFM.jpg" style="width:100%; height:100%;" frameborder="0" align="left" alt="Data visualization using Tableau low resolution image">
 View PDF</a>
 </p>
-
-
-* Alteryx core certified
-<object data="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf" type="application/pdf" width="700px" height="700px">   
-    <embed src="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">
-    <a href="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">View PDF</a>
-    </embed>
-</object>
-
-<a href=https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf> </a>
-
-<object data="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-
-* Web Data using python
-<p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="left" height="50px">
+Alteryx core certified   
+    <a href="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">
+    <img src="/src/certs/AlterxDesignerCore_20200107.jpg" style="width:100%; height:100%;" frameborder="0" align="left" alt="Alteryx core certified low resolution image">
+    </img>
+    View PDF</a>
+</td>
+<td width="50%" align="right" height="50px">
+Web Data using python
  <a href="https://www.coursera.org/account/accomplishments/certificate/PL6V962K5L7H">
-<img src="/src/certs/Coursera_PL6V962K5L7H.pdf" style="width:600px; height:500px;" frameborder="0">
+<img src="/src/certs/Coursera_PL6V962K5L7H.jpg" style="width:100%; height:100%;" frameborder="0" align="left" alt="web data using Python low resolution image">
 View PDF</a>
-</p>
-
-* Python 3
-<object data="https://www.sololearn.com/Certificate/1073-9925933/pdf" type="application/pdf" width="100%"> 
-<embed src="/src/certs/Sololearn_Python3_1073-9925933.pdf">
-</embed>
-</object>
-<p><a href="https://www.sololearn.com/Certificate/1073-9925933/pdf"> View PDF</a></p>
+</td>
+</tr>
+</table>
+<table width="100%">
+<tr>
+<td width="50%" height="50px" align="center">
+Python 3
+<a href="https://www.sololearn.com/Certificate/1073-9925933/pdf"> 
+<img src="/src/certs/Sololearn_Python3_1073-9925933.jpg" style="width:100%; height:100%;" frameborder="0" align="left" alt="Python 3 expertise low resolution image">
+</img>View PDF</a>
+</td>
+</tr>
+</table>
 
 ### Stats
 <details>
@@ -77,6 +76,7 @@ View PDF</a>
 <!--
 **PraphulSamavedam/PraphulSamavedam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[Todo]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
