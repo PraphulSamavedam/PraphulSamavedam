@@ -36,6 +36,8 @@ View PDF</a>
     </embed>
 </object>
 
+<a href=https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf> </a>
+
 * Web Data using python
 <p>
  <a href="https://www.coursera.org/account/accomplishments/certificate/PL6V962K5L7H">
