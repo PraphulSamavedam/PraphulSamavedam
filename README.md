@@ -38,6 +38,13 @@ View PDF</a>
 
 <a href=https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf> </a>
 
+<object data="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
 * Web Data using python
 <p>
  <a href="https://www.coursera.org/account/accomplishments/certificate/PL6V962K5L7H">
