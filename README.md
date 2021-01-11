@@ -23,6 +23,10 @@
  <b>Data visualization using Tableau</b>
   <img src="/src/certs/Coursera_8JLMS3ZHNDFM.jpg" frameborder="0" alt="Data visualization using Tableau low resolution image" height=100 width=20%>
  </a></li>
+ <li><a href="https://s3.us-east-2.amazonaws.com/ayx.certificates/20210109_AlterxDesignerAdvanced41kaNNTTU5kNRdlW6xmMaVnVtNGdFdkWUbipmVHplNBx2oJEShFDeUFaxcVW1RahWMt9ENJpnT.pdf">
+  <b>Alteryx Advanced certified</b>
+   <img src="/src/certs/AlterxDesignerAdvanced_20210109.jpg" frameborder="0" alt="Alteryx advanced certified low resolution image" height=100 width=20%>
+  </a></li>
 <li><a href="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">
  <b>Alteryx core certified</b>
   <img src="/src/certs/AlterxDesignerCore_20200107.jpg" frameborder="0" alt="Alteryx core certified low resolution image" height=100 width=20%>
