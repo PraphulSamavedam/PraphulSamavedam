@@ -52,7 +52,8 @@
 1. :blue_book: [How to Change Others](https://bookstore.yssofindia.org/product/how-to-change-others)
 2. :blue_book: [Overcoming Character Liabilities](https://bookstore.yssofindia.org/product/overcoming-character-liabilities)
 3. :blue_book: [One minute manager](https://www.amazon.in/One-Minute-Manager-Kenneth-Blanchard/dp/8172234996/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
-4. :green_book: [Don't Cross My Heart](https://www.amazon.in/Cross-My-Heart-Alex-21/dp/0099574063/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+4. :blue_book: [Don't Cross My Heart](https://www.amazon.in/Cross-My-Heart-Alex-21/dp/0099574063/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+5. :green_book: [How to Stop Worrying and Start Living](https://www.amazon.in/How-Stop-Worrying-Start-Living/dp/0671733354)
 
 
 ##### Resources
