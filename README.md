@@ -19,14 +19,18 @@
  <b>Deep learning Specialization</b>
   <img src="src/certs/Coursera_EX2VDP2VRP7E.jpg" frameborder="0" alt="Deep learning specialization low resolution image" height=100 width=20%>
  </a></li>
-<li><a href="https://www.coursera.org/account/accomplishments/certificate/8JLMS3ZHNDFM">
- <b>Data visualization using Tableau</b>
-  <img src="/src/certs/Coursera_8JLMS3ZHNDFM.jpg" frameborder="0" alt="Data visualization using Tableau low resolution image" height=100 width=20%>
- </a></li>
  <li><a href="https://s3.us-east-2.amazonaws.com/ayx.certificates/20210109_AlterxDesignerAdvanced41kaNNTTU5kNRdlW6xmMaVnVtNGdFdkWUbipmVHplNBx2oJEShFDeUFaxcVW1RahWMt9ENJpnT.pdf">
   <b>Alteryx Advanced certified</b>
    <img src="/src/certs/AlterxDesignerAdvanced_20210109.jpg" frameborder="0" alt="Alteryx advanced certified low resolution image" height=100 width=20%>
   </a></li>
+<li><a href="https://www.credly.com/badges/2a155e93-1693-4749-9ea8-235c8821d717/public_url">
+  <b>Azure AI Fundamentals</b>
+   <img src="/src/certs/microsoft-certified-azure-ai-fundamentals.png" frameborder="0" alt="Azure AI Fundamentals low resolution image" height=100 width=20%>
+  </a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/certificate/8JLMS3ZHNDFM">
+ <b>Data visualization using Tableau</b>
+  <img src="/src/certs/Coursera_8JLMS3ZHNDFM.jpg" frameborder="0" alt="Data visualization using Tableau low resolution image" height=100 width=20%>
+ </a></li>
 <li><a href="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">
  <b>Alteryx core certified</b>
   <img src="/src/certs/AlterxDesignerCore_20200107.jpg" frameborder="0" alt="Alteryx core certified low resolution image" height=100 width=20%>
