@@ -27,6 +27,10 @@
   <b>Azure AI Fundamentals</b>
    <img src="/src/certs/microsoft-certified-azure-ai-fundamentals.png" frameborder="0" alt="Azure AI Fundamentals low resolution image" height=100 width=20%>
   </a></li>
+<li><a href="https://www.credly.com/badges/543f1649-2a91-4ee3-922a-543de5557d1e/public_url">
+  <b>Azure Data Fundamentals</b>
+   <img src="/src/certs/microsoft-certified-azure-data-fundamentals.png" frameborder="0" alt="Azure Data Fundamentals low resolution image" height=100 width=20%>
+  </a></li>  
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/8JLMS3ZHNDFM">
  <b>Data visualization using Tableau</b>
   <img src="/src/certs/Coursera_8JLMS3ZHNDFM.jpg" frameborder="0" alt="Data visualization using Tableau low resolution image" height=100 width=20%>
