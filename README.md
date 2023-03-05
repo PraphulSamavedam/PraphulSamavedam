@@ -13,6 +13,13 @@
 <a href="https://www.facebook.com/praphulchampion"> <img src= "/src/img/f_logo_RGB-Blue_58.png" alt="Facebook logo" width=22 height=22/> View my FB profile </a> </br>
 <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/132735"> <img src="/src/img/alteryxCommunityLogo.png" alt="Alteryx logo" height=30 /> View my Alteryx Profile </a></br>
 
+### Stats:
+<details>
+  <summary>Github</summary>
+  <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
+  <img align="right" alt="Sama's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraphulSamavedam&exclude_repo=praphulsamavedam.github.io)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&hide_border=true&layout=compact" /><b />
+</details>
+
 ### Certificates
 <ul>
  <li><a href="https://www.coursera.org/account/accomplishments/certificate/EX2VDP2VRP7E">
@@ -50,11 +57,7 @@
  <li>Others check on my Linkedin Profile<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="samavedam-manikhanta-praphul"><a class="LI-simple-link" href='https://in.linkedin.com/in/samavedam-manikhanta-praphul?trk=profile-badge'>Samavedam Manikhanta Praphul</a></div></li>
 </ul>
 
-### Stats
-<details>
-  <summary>Github</summary>
-  <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
-</details>
+
 
 ### Bibliophile mode
 1. :blue_book: [How to Change Others](https://bookstore.yssofindia.org/product/how-to-change-others)
