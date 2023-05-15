@@ -1,5 +1,12 @@
 # Samavedam Manikhanta Praphul
-### :heart: Machine learning
+### Graduate student in Artificial Intelligence (:heart:)
+
+### Stats
+<details>
+  <summary>Github</summary>
+  <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
+</details>
+
 🌱 I’m a curious avid learner and loves to travel the untravelled path <br>
 💬 Ask me about data science, machine learning and artificial intelligence. I love those interactions.<br>
 
@@ -13,48 +20,52 @@
 <a href="https://www.facebook.com/praphulchampion"> <img src= "/src/img/f_logo_RGB-Blue_58.png" alt="Facebook logo" width=22 height=22/> View my FB profile </a> </br>
 <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/132735"> <img src="/src/img/alteryxCommunityLogo.png" alt="Alteryx logo" height=30 /> View my Alteryx Profile </a></br>
 
+### Certification
+<ul>
+ <li>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/EX2VDP2VRP7E">
+  <b>Deep Learning Specialization</b>
+  </a>
+ </li>
+ 
+ <li>
+  <a href="https://s3.us-east-2.amazonaws.com/ayx.certificates/20210109_AlterxDesignerAdvanced41kaNNTTU5kNRdlW6xmMaVnVtNGdFdkWUbipmVHplNBx2oJEShFDeUFaxcVW1RahWMt9ENJpnT.pdf">
+  <b>Advanced Alteryx</b>
+  </a> , 
+ <a href="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">
+ <b>Core Alteryx</b>
+ </a>
+</li>
+ 
+<li>
+ <a href="https://www.credly.com/badges/2a155e93-1693-4749-9ea8-235c8821d717/public_url">
+  <b>Azure AI Fundamentals</b>
+ </a>
+</li>
+ 
+<li>
+ <a href="https://www.credly.com/badges/543f1649-2a91-4ee3-922a-543de5557d1e/public_url">
+  <b>Azure Data Fundamentals</b>
+ </a>
+</li>
+ 
+</ul>
+
+
 ### Certificates
 <ul>
- <li><a href="https://www.coursera.org/account/accomplishments/certificate/EX2VDP2VRP7E">
- <b>Deep learning Specialization</b>
-  <img src="src/certs/Coursera_EX2VDP2VRP7E.jpg" frameborder="0" alt="Deep learning specialization low resolution image" height=100 width=20%>
- </a></li>
- <li><a href="https://s3.us-east-2.amazonaws.com/ayx.certificates/20210109_AlterxDesignerAdvanced41kaNNTTU5kNRdlW6xmMaVnVtNGdFdkWUbipmVHplNBx2oJEShFDeUFaxcVW1RahWMt9ENJpnT.pdf">
-  <b>Alteryx Advanced certified</b>
-   <img src="/src/certs/AlterxDesignerAdvanced_20210109.jpg" frameborder="0" alt="Alteryx advanced certified low resolution image" height=100 width=20%>
-  </a></li>
-<li><a href="https://www.credly.com/badges/2a155e93-1693-4749-9ea8-235c8821d717/public_url">
-  <b>Azure AI Fundamentals</b>
-   <img src="/src/certs/microsoft-certified-azure-ai-fundamentals.png" frameborder="0" alt="Azure AI Fundamentals low resolution image" height=100 width=20%>
-  </a></li>
-<li><a href="https://www.credly.com/badges/543f1649-2a91-4ee3-922a-543de5557d1e/public_url">
-  <b>Azure Data Fundamentals</b>
-   <img src="/src/certs/microsoft-certified-azure-data-fundamentals.png" frameborder="0" alt="Azure Data Fundamentals low resolution image" height=100 width=20%>
-  </a></li>  
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/8JLMS3ZHNDFM">
  <b>Data visualization using Tableau</b>
-  <img src="/src/certs/Coursera_8JLMS3ZHNDFM.jpg" frameborder="0" alt="Data visualization using Tableau low resolution image" height=100 width=20%>
- </a></li>
-<li><a href="https://s3.us-east-2.amazonaws.com/ayx.certificates/20200107_AlterxDesignerCore0TR61UejpXTx8GRaxmTFmb1clW5FTenSplNBx2oJEShFDeUFaxcVW1RahWMt90MrRVT.pdf">
- <b>Alteryx core certified</b>
-  <img src="/src/certs/AlterxDesignerCore_20200107.jpg" frameborder="0" alt="Alteryx core certified low resolution image" height=100 width=20%>
- </a></li>
+</li>
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/PL6V962K5L7H">
  <b>Web Data using python (Web scraping)</b>
-  <img src="/src/certs/Coursera_PL6V962K5L7H.jpg" frameborder="0" alt="Web data using Python low resolution image" height=100 width=20%>
  </a></li>
 <li><a href="https://www.sololearn.com/Certificate/1073-9925933/pdf">
  <b>Python 3</b>
-  <img src="src/certs/Sololearn_Python3_1073-9925933.jpg" frameborder="0" alt="Python 3 expertise low resolution image" height=100 width=20%>
  </a></li>
- <li>Others check on my Linkedin Profile<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="samavedam-manikhanta-praphul"><a class="LI-simple-link" href='https://in.linkedin.com/in/samavedam-manikhanta-praphul?trk=profile-badge'>Samavedam Manikhanta Praphul</a></div></li>
 </ul>
 
-### Stats
-<details>
-  <summary>Github</summary>
-  <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
-</details>
+
 
 ### Bibliophile mode
 1. :blue_book: [How to Change Others](https://bookstore.yssofindia.org/product/how-to-change-others)
