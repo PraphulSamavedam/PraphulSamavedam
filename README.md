@@ -1,6 +1,34 @@
 # Samavedam Manikhanta Praphul
 ### MS in AI, Khoury College, Northeastern University
+-----------------------------------------------------------------
+I am looking to gain pragmatic experience of applying the knowledge and honed skills gained in my master's program in Artificial Intelligence(AI). I have nearly 4 years of experience in a fast paced environment working at Nvidia, UBS, BNY Mellon, PensioTech in an Agile fashion post my undergraduate studies in Electrical and Electronics Engineering (EEE) at BITS-Pilani, Pilani campus (No.1 Private university in India). I have been working as a graduate teaching assistant at Khoury College for courses which exemplify my in depth understanding of the subject and excellent communication skills , most required in collaboration. I have previously published [IEEE paper](https://ieeexplore.ieee.org/abstract/document/8722354) which demonstrate my research abilities in comple. 
 
+I have experience of working on the following tech stack. 
+<!-- Programming Languages: Python, Java, SQL, C++, MATLAB     
+Database: Oracle Database (11g, 12c, 19c) and MySQL      
+Libraries: TensorFlow, Keras, PyTorch, OpenCV, Scikit-learn, Selenium, Matplotlib, Seaborn, Pandas, NumPy      
+Visualizations: Tableau, QlikView, Power-BI      
+SCMs: Git, Gitlab, SVN, Perforce      
+OS: Linux, RHEL, Solaris, Fedora,      
+Other: MLOps, Bash scripting, Gitlab, DevOps (YAML based), Microsoft Azure Cloud, Alteryx (Advance certified), PySpark, Hadoop     
+-->
+
+ -----------------------------------------------------------------
+ Some of my projects are:      
+ 1. Table tennis ball tracking
+ 2. Natural Language inference using LLM
+ 3. Open document Sensitivity
+ 4. Store sales prediction
+ 5. Image popularity prediction (without processing image)
+ 6. 
+[Project access][1]
+[1](mailto:samavedam.m@northeastern.edu?subject="")
+
+### Reach me
+[:mailbox_with_mail: Mail me](praphulsamavedam@gmail.com) <br />
+<a href="https://www.linkedin.com/in/samavedam-manikhanta-praphul/"> <img src= "/src/img/LI-In-Bug.png" alt="LinkedIn logo" width=22 height=22/> View my LinkedIn profile </a> </br>
+<a href="https://www.facebook.com/praphulchampion"> <img src= "/src/img/f_logo_RGB-Blue_58.png" alt="Facebook logo" width=22 height=22/> View my FB profile </a> </br>
+<a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/132735"> <img src="/src/img/alteryxCommunityLogo.png" alt="Alteryx logo" height=30 /> View my Alteryx Profile </a></br>
 
 ### Stats
 <details>
@@ -8,14 +36,7 @@
   <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
 </details>
 
-🌱 I’m a curious avid learner and loves to travel the untravelled path <br>
-💬 Ask me about data science, machine learning and artificial intelligence. I love those interactions.<br>
 
-### Reach me
-[:mailbox_with_mail: Mail me](praphulsamavedam@gmail.com) <br />
-<a href="https://www.linkedin.com/in/samavedam-manikhanta-praphul/"> <img src= "/src/img/LI-In-Bug.png" alt="LinkedIn logo" width=22 height=22/> View my LinkedIn profile </a> </br>
-<a href="https://www.facebook.com/praphulchampion"> <img src= "/src/img/f_logo_RGB-Blue_58.png" alt="Facebook logo" width=22 height=22/> View my FB profile </a> </br>
-<a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/132735"> <img src="/src/img/alteryxCommunityLogo.png" alt="Alteryx logo" height=30 /> View my Alteryx Profile </a></br>
 
 ### Education
 | Degree | Specialization | University | College |       
