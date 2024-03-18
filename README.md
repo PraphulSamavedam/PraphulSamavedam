@@ -1,28 +1,36 @@
 # Samavedam Manikhanta Praphul
 ### MS in AI, Khoury College, Northeastern University
 -----------------------------------------------------------------
-I am looking to gain pragmatic experience of applying the knowledge and honed skills gained in my master's program in Artificial Intelligence(AI). I have nearly 4 years of experience in a fast paced environment working in multiple cross functional teams at Nvidia, UBS, BNY Mellon, PensioTech in an Agile fashion. I have pursued my undergraduate studies in Electrical and Electronics Engineering (EEE) at BITS-Pilani, Pilani campus (No.1 Private university in India) where I gained comprehensive knowledge on hardware, computer architecture crucial for developing optimized solutions for target system. I have been working as a graduate teaching assistant at Khoury College for courses which exemplify my in depth understanding of the subject and excellent communication skills , most required in collaboration. I have previously published [IEEE paper](https://ieeexplore.ieee.org/abstract/document/8722354) which demonstrate my research abilities, comprehending complex topics with minimal guidance, strong problem solving capabilties and mathematical proficiency especially probability & statistics. 
+Looking for opportunities starting from **May 2024**.
 
-I have experience of working on the following tech stack. 
-<!-- Programming Languages: Python, Java, SQL, C++, MATLAB     
-Database: Oracle Database (11g, 12c, 19c) and MySQL      
-Libraries: TensorFlow, Keras, PyTorch, OpenCV, Scikit-learn, Selenium, Matplotlib, Seaborn, Pandas, NumPy      
-Visualizations: Tableau, QlikView, Power-BI      
-SCMs: Git, Gitlab, SVN, Perforce      
-OS: Linux, RHEL, Solaris, Fedora,      
-Other: MLOps, Bash scripting, Gitlab, DevOps (YAML based), Microsoft Azure Cloud, Alteryx (Advance certified), PySpark, Hadoop     
--->
+I am currently pursuing masters degree in Artificial Intelligence (AI) at Khoury College of Computer Sciences, Northeastern University with GPA: **4.0./4.0**. I am currently the President of Google Developer Student Club (GDSC) at Northeastern University, Boston and serving as a graduate teaching assistant at Khoury College for Machine Learning and Data Mining (DS 4420) course. 
+
+I have recently concluded 6 month Machine Learning Engineer Co-op at an innovative no code AI startup 'Sway AI', Boston in Jan 2024. Additionally, I possess nearly 4 years of experience working as Machine Learning Engineer at UBS, BNY Mellon, Nvidia, and PensioTech with with senior management members of cross-functional teams, utilizing Agile methodologies.
+
+In predictive modelling hackathons, I have won **1<i><sup>st</sup></i>** position in UBS's Superstars. Also, I have secured <b>5<i><sup>th</sup></i></b> and <b>14<sup><i>th</i></sup></b> positions at competitive hackathons for predicting image downloads and forecasting sales hosted on Kaggle and Analytics Vidya respectively.
+
+I have pursued my undergraduate studies in Electrical and Electronics Engineering (EEE) at BITS-Pilani, Pilani campus (No.1 Private university in India) where I gained comprehensive knowledge on hardware, computer architecture crucial for developing optimized solutions for target hardware be it GPU, CPU, or low resource hardware.
+
+About my research experience, I have previously published [IEEE paper](https://ieeexplore.ieee.org/abstract/document/8722354) which demonstrate my research abilities, comprehending complex topics with minimal guidance, strong problem solving capabilties and mathematical proficiency especially probability & statistics. 
+
+Overall, I am a highly motivated, daring, energtic individual with a passion for artificial intelligence and a strong desire to have a challenging career with positive impact in the field. My diverse skill set and experiences make me an ideal candidate for any organization looking to innovate and grow.
 
  -----------------------------------------------------------------
- Some of my projects are:      
- 1. Table tennis ball tracking
- 2. Natural Language inference using LLM
- 3. Open document Sensitivity
- 4. Store sales prediction
- 5. Image popularity prediction (without processing image)
- 6. 
-[Project access][1]
-[1](mailto:samavedam.m@northeastern.edu?subject="")
+ Some of my projects are:     
+ 1. Visual Question Answering (vQA) - Visual Large Language Models aka Multi-modal Large Language Model
+ 2. Instruction following robot - Locobot WX250 to follow user instructions
+ 3. Table tennis ball tracking
+ 4. Natural Language inference (NLI) - Both mNLI, sNLI
+ 5. Real time Interview Emotion (RT-Interview Emotion) detection
+ 6. Open document Sensitivity - UBS Hackathon - Runner up
+ 7. Store sales forecasting - 14<sup>th</sup> / 6828
+ 8. Image popularity prediction (without processing image) - 5<sup>th</sup> 
+ 9. "Transign" - Live Indian Sign Language translation of English audio of Coursera
+ 10. Medical Scan Classification
+ 11. Microbe Analytics - Data Engineering for Microbe Analytics project. 
+ 12. Classical Computer Vision projects - AR Furniture, Live Cartoon
+
+[Project access](mailto:samavedam.m@northeastern.edu?subject="")
 
 ### Reach me
 [:mailbox_with_mail: Mail me](praphulsamavedam@gmail.com) <br />
