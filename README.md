@@ -26,7 +26,7 @@ Overall, I am a highly motivated, daring, energtic individual with a passion for
  7. Store sales forecasting - 14<sup>th</sup> / 6828
  8. Image popularity prediction (without processing image) - 5<sup>th</sup> 
  9. "Transign" - Live Indian Sign Language translation of English audio of Coursera
- 10. Medical Scan Classification
+ 10. [Medical MNIST Classification](https://github.com/PraphulSamavedam/nn-bio-tech/blob/main/medical_mnist_pytorch.ipynb)
  11. Microbe Analytics - Data Engineering for Microbe Analytics project. 
  12. Classical Computer Vision projects - AR Furniture, Live Cartoon
 
