@@ -19,18 +19,17 @@ Overall, I am a highly motivated, daring, energtic individual with a passion for
  Some of my projects are:     
  1. Visual Question Answering (vQA) - Visual Large Language Models aka Multi-modal Large Language Model
  2. Instruction following robot - Locobot WX250 to follow user instructions
- 3. Table tennis ball tracking
- 4. Natural Language inference (NLI) - Both mNLI, sNLI
- 5. Real time Interview Emotion (RT-Interview Emotion) detection
- 6. Open document Sensitivity - UBS Hackathon - Runner up
- 7. Store sales forecasting - 14<sup>th</sup> / 6828
- 8. Image popularity prediction (without processing image) - 5<sup>th</sup> 
- 9. "Transign" - Live Indian Sign Language translation of English audio of Coursera
- 10. [Medical MNIST Classification](https://github.com/PraphulSamavedam/nn-bio-tech/blob/main/medical_mnist_pytorch.ipynb)
- 11. Microbe Analytics - Data Engineering for Microbe Analytics project. 
- 12. Classical Computer Vision projects - AR Furniture, Live Cartoon
-
-[Project access](mailto:samavedam.m@northeastern.edu?subject="")
+ 3. LLM based Text Summarization and Text Translation - BART, Transformer from scratch
+ 4. Table tennis ball tracking - \[Game Analytics\]
+ 5. Natural Language inference (NLI) - Both mNLI, sNLI
+ 6. Real time Interview Emotion (RT-Interview Emotion) detection
+ 7. Open document Sensitivity - UBS Hackathon - Runner up [Internal project - can't be shared]
+ 8. Store sales forecasting - 14<sup>th</sup> / 6828 [Github Code Link](https://github.com/PraphulSamavedam/AV-Jobathon-Sep-2021)
+ 9. Image popularity prediction (without processing image) - 5<sup>th</sup> [Insights discussion]((https://www.kaggle.com/competitions/can-i-be-an-influencer/discussion/398519))
+ 10. "Transign" - Live Indian Sign Language translation of English audio of Coursera - UBS SuperStars First Prize [Internal Project - can't be shared]
+ 11. [Medical MNIST Classification](https://github.com/PraphulSamavedam/nn-bio-tech/blob/main/medical_mnist_pytorch.ipynb)
+ 12. Microbe Analytics - Data Engineering for Microbe Analytics project. [Research lab codebase - can't be shared]
+ 13. [Classical Computer Vision projects - AR Furniture, Live Cartoon](https://github.com/PraphulSamavedam/CS-5330-Pattern-Recognition-and-Computer-Vision)
 
 ### Reach me
 [:mailbox_with_mail: Mail me](praphulsamavedam@gmail.com) <br />
@@ -39,12 +38,22 @@ Overall, I am a highly motivated, daring, energtic individual with a passion for
 <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/132735"> <img src="/src/img/alteryxCommunityLogo.png" alt="Alteryx logo" height=30 /> View my Alteryx Profile </a></br>
 
 ### Stats
-<details>
+GitHub
+<img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
+Top Languages
+<img align="left" alt="Sama's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraphulSamavedam&langs_count=8&layout=compact&count_private=true&show_icons=true&hide_border=true" />
+
+  
+<!-- <details>
   <summary>Github</summary>
   <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
 </details>
 
-
+<details>
+  <summary>Top Languages</summary>
+  <img align="left" alt="Sama's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraphulSamavedam&langs_count=8&layout=compact&count_private=true&show_icons=true&hide_border=true" />
+</details>
+-->
 
 ### Education
 | Degree | Specialization | University | College |       
@@ -86,6 +95,11 @@ Overall, I am a highly motivated, daring, energtic individual with a passion for
 
 ### Certificates
 <ul>
+ <li>
+  <a href="https://www.cloudskillsboost.google/public_profiles/8c553b62-312c-4380-ae1d-b241566f698a">
+   <b> Google Cloud Skill Boost Profile </b>
+  </a>
+ </li>
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/8JLMS3ZHNDFM">
  <b>Data visualization using Tableau</b>
 </li>
