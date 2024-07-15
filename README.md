@@ -37,13 +37,13 @@ Overall, I am a highly motivated, daring, energtic individual with a passion for
 <a href="https://www.facebook.com/praphulchampion"> <img src= "/src/img/f_logo_RGB-Blue_58.png" alt="Facebook logo" width=22 height=22/> View my FB profile </a> </br>
 <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/132735"> <img src="/src/img/alteryxCommunityLogo.png" alt="Alteryx logo" height=30 /> View my Alteryx Profile </a></br>
 
-### Stats
-GitHub
-<img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
-Top Languages
-<img align="left" alt="Sama's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraphulSamavedam&langs_count=8&layout=compact&count_private=true&show_icons=true&hide_border=true" />
+### Stats:
+<details>
+  <summary>Github</summary>
+  <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
+  <img align="right" alt="Sama's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraphulSamavedam&exclude_repo=praphulsamavedam.github.io" /><b />
+</details>
 
-  
 <!-- <details>
   <summary>Github</summary>
   <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
@@ -111,10 +111,11 @@ Top Languages
  </a></li>
 </ul>
 
+=======
+
 ### 😄 Inspirations:
 * <a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam" >```Dr. APJ Abdul Kalam Azad``` </a> - _"I learnt, every youth wants to be unique, that is, YOU! But the world all around you, is doing its best, day and night, to make you just "everybody else".Being like everybody else is convenient at the first glance, but not satisfying in the long vision.The challenge, therefore, my young friends, is that you have to fight the hardest battle, which any human being can ever imagine to fight; and never stop fighting until you arrive at your destined place, that is, a __UNIQUE YOU!__"_
 <br>
-
 
 
 ### Bibliophile mode
