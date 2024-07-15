@@ -38,13 +38,14 @@ Overall, I am a highly motivated, daring, energtic individual with a passion for
 <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/132735"> <img src="/src/img/alteryxCommunityLogo.png" alt="Alteryx logo" height=30 /> View my Alteryx Profile </a></br>
 
 ### Stats:
-<details>
+<!-- <details>
   <summary>Github</summary>
   <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
   <img align="right" alt="Sama's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraphulSamavedam&exclude_repo=praphulsamavedam.github.io" /><b />
 </details>
+-->
 
-<!-- <details>
+<details>
   <summary>Github</summary>
   <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
 </details>
@@ -53,7 +54,8 @@ Overall, I am a highly motivated, daring, energtic individual with a passion for
   <summary>Top Languages</summary>
   <img align="left" alt="Sama's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraphulSamavedam&langs_count=8&layout=compact&count_private=true&show_icons=true&hide_border=true" />
 </details>
--->
+
+=======
 
 ### Education
 | Degree | Specialization | University | College |       
