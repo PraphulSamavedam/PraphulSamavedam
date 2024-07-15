@@ -37,25 +37,22 @@ Overall, I am a highly motivated, daring, energtic individual with a passion for
 <a href="https://www.facebook.com/praphulchampion"> <img src= "/src/img/f_logo_RGB-Blue_58.png" alt="Facebook logo" width=22 height=22/> View my FB profile </a> </br>
 <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/132735"> <img src="/src/img/alteryxCommunityLogo.png" alt="Alteryx logo" height=30 /> View my Alteryx Profile </a></br>
 
+<!--
 ### Stats:
-<!-- <details>
+ <details>
   <summary>Github</summary>
   <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
   <img align="right" alt="Sama's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraphulSamavedam&exclude_repo=praphulsamavedam.github.io" /><b />
 </details>
 -->
 
-<details>
-  <summary>Github</summary>
-  <img align="left" alt="Sama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PraphulSamavedam&count_private=true&show_icons=true&hide_border=true" />
-</details>
+### Github
 
-<details>
-  <summary>Top Languages</summary>
-  <img align="left" alt="Sama's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraphulSamavedam&langs_count=8&layout=compact&count_private=true&show_icons=true&hide_border=true" />
-</details>
+#### Github Stats
+<img align="left" alt="Sama's Github Stats" src="https://github-readme-stats-kappa-bice-84.vercel.app/api?username=PraphulSamavedam&theme=radical&count_private=true&show_icons=true&hide_border=true" />
 
-=======
+#### Programming Languages
+<img align="left" alt="Sama's Language Stats" src="https://github-readme-stats-kappa-bice-84.vercel.app/api/top-langs/?username=PraphulSamavedam&langs_count=20&hide=html,css,scss,ruby&size_weight=0.8&count_weight=0.05&show_icons=true&count_private=true&hide_border=true" />
 
 ### Education
 | Degree | Specialization | University | College |       
