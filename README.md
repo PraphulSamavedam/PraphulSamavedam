@@ -1,7 +1,7 @@
 # Samavedam Manikhanta Praphul
 ### MS in AI, Khoury College, Northeastern University
 -----------------------------------------------------------------
-Looking for opportunities starting from **May 2024**.
+<!-- Looking for opportunities starting from **Jan 2024**. -->
 
 I am currently pursuing masters degree in Artificial Intelligence (AI) at Khoury College of Computer Sciences, Northeastern University with GPA: **4.0./4.0**. I am currently the President of Google Developer Student Club (GDSC) at Northeastern University, Boston and serving as a graduate teaching assistant at Khoury College for Machine Learning and Data Mining (DS 4420) course. 
 
@@ -15,21 +15,30 @@ About my research experience, I have previously published [IEEE paper](https://i
 
 Overall, I am a highly motivated, daring, energtic individual with a passion for artificial intelligence and a strong desire to have a challenging career with positive impact in the field. My diverse skill set and experiences make me an ideal candidate for any organization looking to innovate and grow.
 
+## LinkedIn profile badge
+![LinkedIn Profile Badge](https://www.linkedin.com/in/smpraphul?trk=profile-badge)
+[![linkedin](app-generated-url)](https://www.linkedin.com/in/smpraphul)
  -----------------------------------------------------------------
  Some of my projects are:     
- 1. Visual Question Answering (vQA) - Visual Large Language Models aka Multi-modal Large Language Model
- 2. Instruction following robot - Locobot WX250 to follow user instructions
- 3. LLM based Text Summarization and Text Translation - BART, Transformer from scratch
- 4. Table tennis ball tracking - \[Game Analytics\]
- 5. Natural Language inference (NLI) - Both mNLI, sNLI
- 6. Real time Interview Emotion (RT-Interview Emotion) detection
- 7. Open document Sensitivity - UBS Hackathon - Runner up [Internal project - can't be shared]
- 8. Store sales forecasting - 14<sup>th</sup> / 6828 [Github Code Link](https://github.com/PraphulSamavedam/AV-Jobathon-Sep-2021)
- 9. Image popularity prediction (without processing image) - 5<sup>th</sup> [Insights discussion]((https://www.kaggle.com/competitions/can-i-be-an-influencer/discussion/398519))
- 10. "Transign" - Live Indian Sign Language translation of English audio of Coursera - UBS SuperStars First Prize [Internal Project - can't be shared]
- 11. [Medical MNIST Classification](https://github.com/PraphulSamavedam/nn-bio-tech/blob/main/medical_mnist_pytorch.ipynb)
- 12. Microbe Analytics - Data Engineering for Microbe Analytics project. [Research lab codebase - can't be shared]
- 13. [Classical Computer Vision projects - AR Furniture, Live Cartoon](https://github.com/PraphulSamavedam/CS-5330-Pattern-Recognition-and-Computer-Vision)
+ - Visual Question Answering (vQA) - Visual Large Language Models (vLLM) aka Multi-modal Large Language Model
+ - Instruction following robot - Locobot WX250 to follow user instructions
+ - LLM based Text Summarization and Text Translation - BART, Transformer from scratch
+ - Table tennis ball tracking - \[Game Analytics\]
+ - Natural Language inference (NLI) - Both mNLI, sNLI
+ - Real time Interview Emotion (RT-Interview Emotion) detection
+ - Open document Sensitivity - UBS Hackathon - Runner up [Internal project - can't be shared]
+ - Store sales forecasting - 14<sup>th</sup> / 6828 [Github Code Link](https://github.com/PraphulSamavedam/AV-Jobathon-Sep-2021)
+ - Image popularity prediction (without processing image) - 5<sup>th</sup> [Insights discussion]((https://www.kaggle.com/competitions/can-i-be-an-influencer/discussion/398519))
+ - "Transign" - Live Indian Sign Language translation of English audio of Coursera - UBS SuperStars First Prize [Internal Project - can't be shared]
+ - [Medical MNIST Classification](https://github.com/PraphulSamavedam/nn-bio-tech/blob/main/medical_mnist_pytorch.ipynb)
+ - Microbe Analytics - Data Engineering for Microbe Analytics project. [Research lab codebase - can't be shared]
+ - [Classical Computer Vision projects - AR Furniture, Live Cartoon](https://github.com/PraphulSamavedam/CS-5330-Pattern-Recognition-and-Computer-Vision)
+
+### Education
+| Degree | Specialization | University | College |       
+| ----------- | ----------- |  ----------- |  ----------- |       
+| (MS) - Masters in Science | **Artificial Intelligence (AI)** | Northeastern University | Khoury College of Computer Sciences|         
+| B.E. (Hons) - Bachelors of Engineering, Honours | Electrical & Electronics Engineering (EEE) | BITS-Pilani - Birla Institute of Technology & Sciences, Pilani | BITS-Pilani |
 
 ### Reach me
 [:mailbox_with_mail: Mail me](praphulsamavedam@gmail.com) <br />
@@ -46,19 +55,12 @@ Overall, I am a highly motivated, daring, energtic individual with a passion for
 </details>
 -->
 
-### Github
+### Github Stats
+<img align="left" alt="Sama's Github Stats" src="https://github-readme-stats-kappa-bice-84.vercel.app/api?username=PraphulSamavedam&theme=radical&count_private=true&show_icons=true&hide_border=true" /> 
 
-#### Github Stats
-<img align="left" alt="Sama's Github Stats" src="https://github-readme-stats-kappa-bice-84.vercel.app/api?username=PraphulSamavedam&theme=radical&count_private=true&show_icons=true&hide_border=true" />
-
-#### Programming Languages
-<img align="left" alt="Sama's Language Stats" src="https://github-readme-stats-kappa-bice-84.vercel.app/api/top-langs/?username=PraphulSamavedam&langs_count=20&hide=html,css,scss,ruby&size_weight=0.8&count_weight=0.05&show_icons=true&count_private=true&hide_border=true" />
-
-### Education
-| Degree | Specialization | University | College |       
-| ----------- | ----------- |  ----------- |  ----------- |       
-| (MS) - Masters in Science | Artificial Intelligence (AI) | Northeastern University | Khoury College of Computer Sciences|         
-| B.E. (Hons) - Bachelors of Engineering, Honours | Electrical & Electronics Engineering (EEE) | BITS-Pilani - Birla Institute of Technology & Sciences, Pilani | BITS-Pilani |
+<details>
+<img align="right" alt="Sama's Language Stats" src="https://github-readme-stats-kappa-bice-84.vercel.app/api/top-langs/?username=PraphulSamavedam&langs_count=20&hide=html,css,scss,ruby&size_weight=0.8&count_weight=0.05&show_icons=true&count_private=true&hide_border=true&layout=compact" />
+</details>
 
 ### Certification
 <ul>
@@ -109,8 +111,6 @@ Overall, I am a highly motivated, daring, energtic individual with a passion for
  <b>Python 3</b>
  </a></li>
 </ul>
-
-=======
 
 ### 😄 Inspirations:
 * <a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam" >```Dr. APJ Abdul Kalam Azad``` </a> - _"I learnt, every youth wants to be unique, that is, YOU! But the world all around you, is doing its best, day and night, to make you just "everybody else".Being like everybody else is convenient at the first glance, but not satisfying in the long vision.The challenge, therefore, my young friends, is that you have to fight the hardest battle, which any human being can ever imagine to fight; and never stop fighting until you arrive at your destined place, that is, a __UNIQUE YOU!__"_
