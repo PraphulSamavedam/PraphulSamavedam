@@ -40,17 +40,20 @@ Mentored graduate students in advanced ML concepts, reinforcing best practices i
 ## Featured Technical Projects
 
 **Multi-Modal AI & Large Language Models**
+
 1. **Visual Question Answering (VQA)** - Multi-modal Large Language Models for reasoning over visual and textual information
 2. **LLM-Based Text Summarization & Translation** - Built BART models and Transformers from scratch for advanced NLP tasks
 3. **Natural Language Inference (NLI)** - Multi-domain models for textual entailment (mNLI, sNLI)
 
 **Robotics & Computer Vision**
+
 4. **Instruction-Following Robot** - Programmed Locobot WX250 for natural language command execution
 5. **Real-Time Interview Emotion Detection** - Live emotion recognition system for interview analytics
 6. **Table Tennis Ball Tracking** - High-speed object tracking for game analytics
 7. **[Classical Computer Vision Projects](https://github.com/PraphulSamavedam/CS-5330-Pattern-Recognition-and-Computer-Vision)** - AR Furniture placement, live cartoon filters
 
 **Applied ML & Data Science**
+
 8. **[Medical MNIST Classification](https://github.com/PraphulSamavedam/nn-bio-tech/blob/main/medical_mnist_pytorch.ipynb)** - Healthcare AI for medical imaging
 9. **Open Document Sensitivity Classifier** - Enterprise security ML system (UBS - Confidential)
 10. **Microbe Analytics Data Engineering** - Research-grade data pipelines for computational biology
